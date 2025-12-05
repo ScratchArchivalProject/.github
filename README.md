@@ -4,7 +4,7 @@
 The **Scratch Archival Project** aims to create a digital archive of every project shared on [Scratch](https://scratch.mit.edu/), so that everyone's work can be preserved in the event that something happens to the Scratch website. The archive will be available **for free**, **for everyone**, **forever**.
 
 ## The SAP Team
-Thank you to all our contributors for helping keep SAP running!
+Thank you to all our contributors for helping keep SAP running! 🍁🍯
 
 ### Founding Archivists
 ![autothekat-edu](https://avatars.githubusercontent.com/u/194110675?v=4&s=128)
