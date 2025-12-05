@@ -12,6 +12,7 @@ Thank you to all our contributors for helping keep SAP running! 🍁🍯
 ![PlayfulMathematician](https://avatars.githubusercontent.com/u/73261021?v=4&s=128)
 ![raynecloudy](https://avatars.githubusercontent.com/u/129226914?v=4&s=128)
 ![shock59](https://avatars.githubusercontent.com/u/42130427?v=4&s=128)
+![Snorfield](https://avatars.githubusercontent.com/u/225273460?v=4&s=128)
 
 ### Archivists
 If you'd like to help maintain the project long-term, make sure to contact one of the Founding Archivists!
